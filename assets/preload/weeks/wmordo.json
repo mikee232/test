@@ -1,0 +1,49 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"no-more-woah",
+			"mordecai",
+			[
+				0,
+				173,
+				255
+			]
+		],
+		[
+			"Power-Devour",
+			"mordecai",
+			[
+				0,
+				153,
+				253
+			]
+		],
+		[
+			"liar",
+			"rigby",
+			[
+				215,
+				160,
+				93
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,49 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"this-is-the-future",
+			"universe",
+			[
+				255,
+				140,
+				255
+			]
+		],
+		[
+			"i-am-a-monster",
+			"universe",
+			[
+				255,
+				113,
+				253
+			]
+		],
+		[
+			"everyone-deserves-empathy",
+			"universe",
+			[
+				255,
+				35,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

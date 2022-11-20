@@ -1,0 +1,32 @@
+{
+	"storyName": "Jake & Finn The Human...?",
+	"difficulties": "sing,cover",
+	"hideFreeplay": false,
+	"weekBackground": "jake&finn",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"quietx12",
+			"wix12",
+			[
+				173,
+				191,
+				202
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week Jake & Finn"
+}

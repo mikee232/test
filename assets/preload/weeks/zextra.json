@@ -1,0 +1,59 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "scrapped",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"no-more-woah-remake",
+			"mordecai",
+			[
+				166,
+				0,
+				0
+			]
+		],
+		[
+			"Power-Devour-old",
+			"mordecai",
+			[
+				166,
+				0,
+				0
+			]
+		],
+		[
+			"rabbit-season-old",
+			"rabbit",
+			[
+				166,
+				0,
+				0
+			]
+		],
+		[
+			"Quiet-remake",
+			"capa",
+			[
+				166,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

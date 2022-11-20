@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				157,
+				-296
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bugs-bonie Up"
+		},
+		{
+			"offsets": [
+				168,
+				-289
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bugs-bonie Down"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				130,
+				-290
+			],
+			"anim": "idle",
+			"fps": 13,
+			"name": "bugs-bonie Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				144,
+				-289
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "bugs-bonie Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-292
+			],
+			"anim": "singLEFT",
+			"fps": 19,
+			"name": "bugs-bonie Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bugs-bonie",
+	"position": [
+		130,
+		-120
+	],
+	"healthicon": "rabbit",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		0,
+		0
+	],
+	"camera_position": [
+		-290,
+		-70
+	],
+	"sing_duration": 5.3,
+	"scale": 2.9
+}

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="black-forest.png">
+<SubTexture name="black-forest Static0000" x="0" y="0" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0001" x="185" y="0" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0002" x="0" y="101" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0003" x="185" y="101" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0004" x="0" y="202" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0005" x="185" y="202" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0006" x="370" y="0" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0007" x="370" y="101" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0008" x="370" y="202" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0009" x="0" y="303" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0010" x="185" y="303" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0011" x="370" y="303" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0012" x="0" y="404" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0013" x="185" y="404" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0014" x="370" y="404" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0015" x="555" y="0" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0016" x="555" y="101" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+<SubTexture name="black-forest Static0017" x="555" y="202" width="185" height="101" frameX="0" frameY="0" frameWidth="185" frameHeight="101" />
+</TextureAtlas>
